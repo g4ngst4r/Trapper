@@ -1,0 +1,7 @@
+certifi==2024.7.4             # Certifi provides Mozilla's carefully curated collection of Root Certificates for Validation of SSL Certificates.
+charset-normalizer==3.3.2     # A library that helps you read text from a unknown charset encoding.
+idna==3.7                     # Support for International Domain Names in Applicatiion (IDNA) protoco as specified in RFC 5891.
+pynput==1.7.7                 # This library allows you to control and monitor input devices. Currently, mouse and keyboard input are supported.
+requests==2.32.3              # Requests is a simple, yet elegant, HTTP library.
+six==1.16.0                   # Six a Python 2 and 3 compatibility library.
+urllib3==2.2.2                # It is a powerful, user-friendly HTTP client for Python.
